@@ -1,0 +1,831 @@
+,H,A,Result,Rez1,Rez2
+0,UD Almería,Rayo Vallecano,0 - 2,0,2
+1,Sevilla FC,Valencia CF,1 - 2,1,2
+2,Real Sociedad,Girona FC,1 - 1,1,1
+3,UD Las Palmas,RCD Mallorca,1 - 1,1,1
+4,Athletic Club,Real Madrid,0 - 2,0,2
+5,RC Celta,CA Osasuna,0 - 2,0,2
+6,Villarreal CF,Real Betis,1 - 2,1,2
+7,Getafe CF,FC Barcelona,0 - 0,0,0
+8,Cádiz CF,Deportivo Alavés,1 - 0,1,0
+9,Atlético de Madrid,Granada CF,3 - 1,3,1
+10,RCD Mallorca,Villarreal CF,0 - 1,0,1
+11,Valencia CF,UD Las Palmas,1 - 0,1,0
+12,Real Sociedad,RC Celta,1 - 1,1,1
+13,UD Almería,Real Madrid,1 - 3,1,3
+14,CA Osasuna,Athletic Club,0 - 2,0,2
+15,Girona FC,Getafe CF,3 - 0,3,0
+16,FC Barcelona,Cádiz CF,2 - 0,2,0
+17,Real Betis,Atlético de Madrid,0 - 0,0,0
+18,Deportivo Alavés,Sevilla FC,4 - 3,4,3
+19,Granada CF,Rayo Vallecano,0 - 2,0,2
+20,UD Las Palmas,Real Sociedad,0 - 0,0,0
+21,RC Celta,Real Madrid,0 - 1,0,1
+22,Granada CF,RCD Mallorca,3 - 2,3,2
+23,Cádiz CF,UD Almería,1 - 1,1,1
+24,Sevilla FC,Girona FC,1 - 2,1,2
+25,Villarreal CF,FC Barcelona,3 - 4,3,4
+26,Valencia CF,CA Osasuna,1 - 2,1,2
+27,Athletic Club,Real Betis,4 - 2,4,2
+28,Getafe CF,Deportivo Alavés,1 - 0,1,0
+29,Rayo Vallecano,Atlético de Madrid,0 - 7,0,7
+30,Cádiz CF,Villarreal CF,3 - 1,3,1
+31,UD Almería,RC Celta,2 - 3,2,3
+32,Real Sociedad,Granada CF,5 - 3,5,3
+33,Real Madrid,Getafe CF,2 - 1,2,1
+34,Deportivo Alavés,Valencia CF,1 - 0,1,0
+35,Real Betis,Rayo Vallecano,1 - 0,1,0
+36,Girona FC,UD Las Palmas,1 - 0,1,0
+37,RCD Mallorca,Athletic Club,0 - 0,0,0
+38,CA Osasuna,FC Barcelona,1 - 2,1,2
+39,Atlético de Madrid,Sevilla FC,1 - 0,1,0
+40,Rayo Vallecano,Deportivo Alavés,2 - 0,2,0
+41,Athletic Club,Cádiz CF,3 - 0,3,0
+42,Valencia CF,Atlético de Madrid,3 - 0,3,0
+43,RC Celta,RCD Mallorca,0 - 1,0,1
+44,FC Barcelona,Real Betis,5 - 0,5,0
+45,Getafe CF,CA Osasuna,3 - 2,3,2
+46,Villarreal CF,UD Almería,2 - 1,2,1
+47,Sevilla FC,UD Las Palmas,1 - 0,1,0
+48,Real Madrid,Real Sociedad,2 - 1,2,1
+49,Granada CF,Girona FC,2 - 4,2,4
+50,Deportivo Alavés,Athletic Club,0 - 2,0,2
+51,Girona FC,RCD Mallorca,5 - 3,5,3
+52,CA Osasuna,Sevilla FC,0 - 0,0,0
+53,FC Barcelona,RC Celta,3 - 2,3,2
+54,UD Almería,Valencia CF,2 - 2,2,2
+55,Real Sociedad,Getafe CF,4 - 3,4,3
+56,Rayo Vallecano,Villarreal CF,1 - 1,1,1
+57,Real Betis,Cádiz CF,1 - 1,1,1
+58,UD Las Palmas,Granada CF,1 - 0,1,0
+59,Atlético de Madrid,Real Madrid,3 - 1,3,1
+60,Sevilla FC,UD Almería,5 - 1,5,1
+61,RCD Mallorca,FC Barcelona,2 - 2,2,2
+62,Athletic Club,Getafe CF,2 - 2,2,2
+63,Villarreal CF,Girona FC,1 - 2,1,2
+64,Real Madrid,UD Las Palmas,2 - 0,2,0
+65,Cádiz CF,Rayo Vallecano,0 - 0,0,0
+66,Valencia CF,Real Sociedad,0 - 1,0,1
+67,Granada CF,Real Betis,1 - 1,1,1
+68,RC Celta,Deportivo Alavés,1 - 1,1,1
+69,CA Osasuna,Atlético de Madrid,0 - 2,0,2
+70,FC Barcelona,Sevilla FC,1 - 0,1,0
+71,Getafe CF,Villarreal CF,0 - 0,0,0
+72,Rayo Vallecano,RCD Mallorca,2 - 2,2,2
+73,Girona FC,Real Madrid,0 - 3,0,3
+74,Real Sociedad,Athletic Club,3 - 0,3,0
+75,UD Almería,Granada CF,3 - 3,3,3
+76,Deportivo Alavés,CA Osasuna,0 - 2,0,2
+77,Atlético de Madrid,Cádiz CF,3 - 2,3,2
+78,Real Betis,Valencia CF,3 - 0,3,0
+79,UD Las Palmas,RC Celta,2 - 1,2,1
+80,Athletic Club,UD Almería,3 - 0,3,0
+81,Cádiz CF,Girona FC,0 - 1,0,1
+82,Real Madrid,CA Osasuna,4 - 0,4,0
+83,RCD Mallorca,Valencia CF,1 - 1,1,1
+84,Sevilla FC,Rayo Vallecano,2 - 2,2,2
+85,Villarreal CF,UD Las Palmas,1 - 2,1,2
+86,Atlético de Madrid,Real Sociedad,2 - 1,2,1
+87,RC Celta,Getafe CF,2 - 2,2,2
+88,Deportivo Alavés,Real Betis,1 - 1,1,1
+89,Granada CF,FC Barcelona,2 - 2,2,2
+90,CA Osasuna,Granada CF,2 - 0,2,0
+91,Real Sociedad,RCD Mallorca,1 - 0,1,0
+92,Getafe CF,Real Betis,1 - 1,1,1
+93,Sevilla FC,Real Madrid,1 - 1,1,1
+94,RC Celta,Atlético de Madrid,0 - 3,0,3
+95,UD Las Palmas,Rayo Vallecano,0 - 1,0,1
+96,Girona FC,UD Almería,5 - 2,5,2
+97,Villarreal CF,Deportivo Alavés,1 - 1,1,1
+98,FC Barcelona,Athletic Club,1 - 0,1,0
+99,Valencia CF,Cádiz CF,2 - 0,2,0
+100,Girona FC,RC Celta,1 - 0,1,0
+101,UD Almería,UD Las Palmas,1 - 2,1,2
+102,FC Barcelona,Real Madrid,1 - 2,1,2
+103,RCD Mallorca,Getafe CF,0 - 0,0,0
+104,Cádiz CF,Sevilla FC,2 - 2,2,2
+105,Real Betis,CA Osasuna,2 - 1,2,1
+106,Rayo Vallecano,Real Sociedad,2 - 2,2,2
+107,Athletic Club,Valencia CF,2 - 2,2,2
+108,Atlético de Madrid,Deportivo Alavés,2 - 1,2,1
+109,Granada CF,Villarreal CF,2 - 3,2,3
+110,UD Las Palmas,Atlético de Madrid,2 - 1,2,1
+111,CA Osasuna,Girona FC,2 - 4,2,4
+112,Real Betis,RCD Mallorca,2 - 0,2,0
+113,RC Celta,Sevilla FC,1 - 1,1,1
+114,Real Sociedad,FC Barcelona,0 - 1,0,1
+115,Deportivo Alavés,UD Almería,1 - 0,1,0
+116,Valencia CF,Granada CF,1 - 0,1,0
+117,Villarreal CF,Athletic Club,2 - 3,2,3
+118,Real Madrid,Rayo Vallecano,0 - 0,0,0
+119,Getafe CF,Cádiz CF,1 - 0,1,0
+120,Athletic Club,RC Celta,4 - 3,4,3
+121,Rayo Vallecano,Girona FC,1 - 2,1,2
+122,UD Almería,Real Sociedad,1 - 3,1,3
+123,Granada CF,Getafe CF,1 - 1,1,1
+124,CA Osasuna,UD Las Palmas,1 - 1,1,1
+125,Real Madrid,Valencia CF,5 - 1,5,1
+126,FC Barcelona,Deportivo Alavés,2 - 1,2,1
+127,Sevilla FC,Real Betis,1 - 1,1,1
+128,Atlético de Madrid,Villarreal CF,3 - 1,3,1
+129,RCD Mallorca,Cádiz CF,1 - 1,1,1
+130,Deportivo Alavés,Granada CF,3 - 1,3,1
+131,Rayo Vallecano,FC Barcelona,1 - 1,1,1
+132,Valencia CF,RC Celta,0 - 0,0,0
+133,Getafe CF,UD Almería,2 - 1,2,1
+134,Atlético de Madrid,RCD Mallorca,1 - 0,1,0
+135,Villarreal CF,CA Osasuna,3 - 1,3,1
+136,Real Sociedad,Sevilla FC,2 - 1,2,1
+137,Cádiz CF,Real Madrid,0 - 3,0,3
+138,Real Betis,UD Las Palmas,1 - 0,1,0
+139,Girona FC,Athletic Club,1 - 1,1,1
+140,UD Las Palmas,Getafe CF,2 - 0,2,0
+141,Girona FC,Valencia CF,2 - 1,2,1
+142,Athletic Club,Rayo Vallecano,4 - 0,4,0
+143,Real Madrid,Granada CF,2 - 0,2,0
+144,CA Osasuna,Real Sociedad,1 - 1,1,1
+145,RCD Mallorca,Deportivo Alavés,0 - 0,0,0
+146,UD Almería,Real Betis,0 - 0,0,0
+147,Sevilla FC,Villarreal CF,1 - 1,1,1
+148,FC Barcelona,Atlético de Madrid,1 - 0,1,0
+149,RC Celta,Cádiz CF,1 - 1,1,1
+150,Getafe CF,Valencia CF,1 - 0,1,0
+151,Deportivo Alavés,UD Las Palmas,0 - 1,0,1
+152,Real Betis,Real Madrid,1 - 1,1,1
+153,Villarreal CF,Real Sociedad,0 - 3,0,3
+154,RCD Mallorca,Sevilla FC,1 - 0,1,0
+155,Atlético de Madrid,UD Almería,2 - 1,2,1
+156,Cádiz CF,CA Osasuna,1 - 1,1,1
+157,FC Barcelona,Girona FC,2 - 4,2,4
+158,Granada CF,Athletic Club,1 - 1,1,1
+159,Rayo Vallecano,RC Celta,0 - 0,0,0
+160,CA Osasuna,Rayo Vallecano,1 - 0,1,0
+161,RC Celta,Granada CF,1 - 0,1,0
+162,Athletic Club,Atlético de Madrid,2 - 0,2,0
+163,Sevilla FC,Getafe CF,0 - 3,0,3
+164,Valencia CF,FC Barcelona,1 - 1,1,1
+165,UD Almería,RCD Mallorca,0 - 0,0,0
+166,Real Sociedad,Real Betis,0 - 0,0,0
+167,UD Las Palmas,Cádiz CF,1 - 1,1,1
+168,Real Madrid,Villarreal CF,4 - 1,4,1
+169,Girona FC,Deportivo Alavés,3 - 0,3,0
+170,Rayo Vallecano,Valencia CF,0 - 1,0,1
+171,Atlético de Madrid,Getafe CF,3 - 3,3,3
+172,Granada CF,Sevilla FC,0 - 3,0,3
+173,FC Barcelona,UD Almería,3 - 2,3,2
+174,Athletic Club,UD Las Palmas,1 - 0,1,0
+175,Villarreal CF,RC Celta,3 - 2,3,2
+176,Real Betis,Girona FC,1 - 1,1,1
+177,Cádiz CF,Real Sociedad,0 - 0,0,0
+178,RCD Mallorca,CA Osasuna,3 - 2,3,2
+179,Deportivo Alavés,Real Madrid,0 - 1,0,1
+180,Getafe CF,Rayo Vallecano,0 - 2,0,2
+181,Real Sociedad,Deportivo Alavés,1 - 1,1,1
+182,Valencia CF,Villarreal CF,3 - 1,3,1
+183,Granada CF,Cádiz CF,2 - 0,2,0
+184,RC Celta,Real Betis,2 - 1,2,1
+185,Real Madrid,RCD Mallorca,1 - 0,1,0
+186,Girona FC,Atlético de Madrid,4 - 3,4,3
+187,CA Osasuna,UD Almería,1 - 0,1,0
+188,Sevilla FC,Athletic Club,0 - 2,0,2
+189,UD Las Palmas,FC Barcelona,1 - 2,1,2
+190,Sevilla FC,Deportivo Alavés,2 - 3,2,3
+191,UD Las Palmas,Villarreal CF,3 - 0,3,0
+192,RCD Mallorca,RC Celta,1 - 1,1,1
+193,Athletic Club,Real Sociedad,2 - 1,2,1
+194,Real Betis,Granada CF,1 - 0,1,0
+195,UD Almería,Girona FC,0 - 0,0,0
+196,Cádiz CF,Valencia CF,1 - 4,1,4
+197,FC Barcelona,CA Osasuna,1 - 0,1,0
+198,Atlético de Madrid,Rayo Vallecano,2 - 1,2,1
+199,Getafe CF,Real Madrid,0 - 2,0,2
+200,Deportivo Alavés,Cádiz CF,1 - 0,1,0
+201,Rayo Vallecano,UD Las Palmas,0 - 2,0,2
+202,Villarreal CF,RCD Mallorca,1 - 1,1,1
+203,Valencia CF,Athletic Club,1 - 0,1,0
+204,RC Celta,Real Sociedad,0 - 1,0,1
+205,CA Osasuna,Getafe CF,3 - 2,3,2
+206,Real Madrid,UD Almería,3 - 2,3,2
+207,Real Betis,FC Barcelona,2 - 4,2,4
+208,Girona FC,Sevilla FC,5 - 1,5,1
+209,Granada CF,Atlético de Madrid,0 - 1,0,1
+210,UD Almería,Deportivo Alavés,0 - 3,0,3
+211,Real Sociedad,Rayo Vallecano,0 - 0,0,0
+212,UD Las Palmas,Real Madrid,1 - 2,1,2
+213,FC Barcelona,Villarreal CF,3 - 5,3,5
+214,RCD Mallorca,Real Betis,0 - 1,0,1
+215,RC Celta,Girona FC,0 - 1,0,1
+216,Cádiz CF,Athletic Club,0 - 0,0,0
+217,Sevilla FC,CA Osasuna,1 - 1,1,1
+218,Atlético de Madrid,Valencia CF,2 - 0,2,0
+219,Getafe CF,Granada CF,2 - 0,2,0
+220,Athletic Club,RCD Mallorca,4 - 0,4,0
+221,Valencia CF,UD Almería,2 - 1,2,1
+222,Granada CF,UD Las Palmas,1 - 1,1,1
+223,Deportivo Alavés,FC Barcelona,1 - 3,1,3
+224,Girona FC,Real Sociedad,0 - 0,0,0
+225,Villarreal CF,Cádiz CF,0 - 0,0,0
+226,CA Osasuna,RC Celta,0 - 3,0,3
+227,Real Betis,Getafe CF,1 - 1,1,1
+228,Real Madrid,Atlético de Madrid,1 - 1,1,1
+229,Rayo Vallecano,Sevilla FC,1 - 2,1,2
+230,Cádiz CF,Real Betis,0 - 2,0,2
+231,Deportivo Alavés,Villarreal CF,1 - 1,1,1
+232,Real Sociedad,CA Osasuna,0 - 1,0,1
+233,Real Madrid,Girona FC,4 - 0,4,0
+234,UD Las Palmas,Valencia CF,2 - 0,2,0
+235,Getafe CF,RC Celta,3 - 2,3,2
+236,RCD Mallorca,Rayo Vallecano,2 - 1,2,1
+237,Sevilla FC,Atlético de Madrid,1 - 0,1,0
+238,FC Barcelona,Granada CF,3 - 3,3,3
+239,UD Almería,Athletic Club,0 - 0,0,0
+240,Villarreal CF,Getafe CF,1 - 1,1,1
+241,Atlético de Madrid,UD Las Palmas,5 - 0,5,0
+242,CA Osasuna,Cádiz CF,2 - 0,2,0
+243,RC Celta,FC Barcelona,1 - 2,1,2
+244,Valencia CF,Sevilla FC,0 - 0,0,0
+245,Rayo Vallecano,Real Madrid,1 - 1,1,1
+246,Granada CF,UD Almería,1 - 1,1,1
+247,RCD Mallorca,Real Sociedad,1 - 2,1,2
+248,Real Betis,Deportivo Alavés,0 - 0,0,0
+249,Athletic Club,Girona FC,3 - 2,3,2
+250,Real Sociedad,Villarreal CF,1 - 3,1,3
+251,FC Barcelona,Getafe CF,4 - 0,4,0
+252,Deportivo Alavés,RCD Mallorca,1 - 1,1,1
+253,UD Almería,Atlético de Madrid,2 - 2,2,2
+254,Cádiz CF,RC Celta,2 - 2,2,2
+255,Real Betis,Athletic Club,3 - 1,3,1
+256,UD Las Palmas,CA Osasuna,1 - 1,1,1
+257,Real Madrid,Sevilla FC,1 - 0,1,0
+258,Girona FC,Rayo Vallecano,3 - 0,3,0
+259,Granada CF,Valencia CF,0 - 1,0,1
+260,RC Celta,UD Almería,1 - 0,1,0
+261,Sevilla FC,Real Sociedad,3 - 2,3,2
+262,Rayo Vallecano,Cádiz CF,1 - 1,1,1
+263,Getafe CF,UD Las Palmas,3 - 3,3,3
+264,Valencia CF,Real Madrid,2 - 2,2,2
+265,Villarreal CF,Granada CF,5 - 1,5,1
+266,Atlético de Madrid,Real Betis,2 - 1,2,1
+267,RCD Mallorca,Girona FC,1 - 0,1,0
+268,Athletic Club,FC Barcelona,0 - 0,0,0
+269,CA Osasuna,Deportivo Alavés,1 - 0,1,0
+270,FC Barcelona,RCD Mallorca,1 - 0,1,0
+271,Valencia CF,Getafe CF,1 - 0,1,0
+272,Cádiz CF,Atlético de Madrid,2 - 0,2,0
+273,Granada CF,Real Sociedad,2 - 3,2,3
+274,Girona FC,CA Osasuna,2 - 0,2,0
+275,Deportivo Alavés,Rayo Vallecano,1 - 0,1,0
+276,UD Las Palmas,Athletic Club,0 - 2,0,2
+277,Real Madrid,RC Celta,4 - 0,4,0
+278,Real Betis,Villarreal CF,2 - 3,2,3
+279,UD Almería,Sevilla FC,2 - 2,2,2
+280,Real Sociedad,Cádiz CF,2 - 0,2,0
+281,RCD Mallorca,Granada CF,1 - 0,1,0
+282,CA Osasuna,Real Madrid,2 - 4,2,4
+283,Getafe CF,Girona FC,1 - 0,1,0
+284,Athletic Club,Deportivo Alavés,2 - 0,2,0
+285,Sevilla FC,RC Celta,1 - 2,1,2
+286,UD Las Palmas,UD Almería,0 - 1,0,1
+287,Villarreal CF,Valencia CF,1 - 0,1,0
+288,Rayo Vallecano,Real Betis,2 - 0,2,0
+289,Atlético de Madrid,FC Barcelona,0 - 3,0,3
+290,Cádiz CF,Granada CF,1 - 0,1,0
+291,Getafe CF,Sevilla FC,0 - 1,0,1
+292,UD Almería,CA Osasuna,0 - 3,0,3
+293,Valencia CF,RCD Mallorca,0 - 0,0,0
+294,FC Barcelona,UD Las Palmas,1 - 0,1,0
+295,RC Celta,Rayo Vallecano,0 - 0,0,0
+296,Girona FC,Real Betis,3 - 2,3,2
+297,Deportivo Alavés,Real Sociedad,0 - 1,0,1
+298,Real Madrid,Athletic Club,2 - 0,2,0
+299,Villarreal CF,Atlético de Madrid,1 - 2,1,2
+300,Real Betis,RC Celta,2 - 1,2,1
+301,Atlético de Madrid,Girona FC,3 - 1,3,1
+302,Rayo Vallecano,Getafe CF,0 - 0,0,0
+303,RCD Mallorca,Real Madrid,0 - 1,0,1
+304,Cádiz CF,FC Barcelona,0 - 1,0,1
+305,UD Las Palmas,Sevilla FC,0 - 2,0,2
+306,Granada CF,Deportivo Alavés,2 - 0,2,0
+307,Athletic Club,Villarreal CF,1 - 1,1,1
+308,Real Sociedad,UD Almería,2 - 2,2,2
+309,CA Osasuna,Valencia CF,0 - 1,0,1
+310,Athletic Club,Granada CF,1 - 1,1,1
+311,RC Celta,UD Las Palmas,4 - 1,4,1
+312,Rayo Vallecano,CA Osasuna,2 - 1,2,1
+313,Valencia CF,Real Betis,1 - 2,1,2
+314,Girona FC,Cádiz CF,4 - 1,4,1
+315,Getafe CF,Real Sociedad,1 - 1,1,1
+316,UD Almería,Villarreal CF,1 - 2,1,2
+317,Deportivo Alavés,Atlético de Madrid,2 - 0,2,0
+318,Real Madrid,FC Barcelona,3 - 2,3,2
+319,Sevilla FC,RCD Mallorca,2 - 1,2,1
+320,Real Sociedad,Real Madrid,0 - 1,0,1
+321,UD Las Palmas,Girona FC,0 - 2,0,2
+322,UD Almería,Getafe CF,1 - 3,1,3
+323,Deportivo Alavés,RC Celta,3 - 0,3,0
+324,Atlético de Madrid,Athletic Club,3 - 1,3,1
+325,Cádiz CF,RCD Mallorca,1 - 1,1,1
+326,Granada CF,CA Osasuna,3 - 0,3,0
+327,Villarreal CF,Rayo Vallecano,3 - 0,3,0
+328,Real Betis,Sevilla FC,1 - 1,1,1
+329,FC Barcelona,Valencia CF,4 - 2,4,2
+330,Getafe CF,Athletic Club,0 - 2,0,2
+331,Real Sociedad,UD Las Palmas,2 - 0,2,0
+332,Real Madrid,Cádiz CF,3 - 0,3,0
+333,Girona FC,FC Barcelona,4 - 2,4,2
+334,RCD Mallorca,Atlético de Madrid,0 - 1,0,1
+335,CA Osasuna,Real Betis,0 - 2,0,2
+336,RC Celta,Villarreal CF,3 - 2,3,2
+337,Valencia CF,Deportivo Alavés,0 - 1,0,1
+338,Rayo Vallecano,UD Almería,0 - 1,0,1
+339,Sevilla FC,Granada CF,3 - 0,3,0
+340,Deportivo Alavés,Girona FC,2 - 2,2,2
+341,RCD Mallorca,UD Las Palmas,1 - 0,1,0
+342,Villarreal CF,Sevilla FC,3 - 2,3,2
+343,Granada CF,Real Madrid,0 - 4,0,4
+344,Athletic Club,CA Osasuna,2 - 2,2,2
+345,Cádiz CF,Getafe CF,1 - 0,1,0
+346,Atlético de Madrid,RC Celta,1 - 0,1,0
+347,Valencia CF,Rayo Vallecano,0 - 0,0,0
+348,Real Betis,UD Almería,3 - 2,3,2
+349,FC Barcelona,Real Sociedad,2 - 0,2,0
+350,CA Osasuna,RCD Mallorca,1 - 1,1,1
+351,Real Madrid,Deportivo Alavés,5 - 0,5,0
+352,Girona FC,Villarreal CF,0 - 1,0,1
+353,Sevilla FC,Cádiz CF,0 - 1,0,1
+354,Rayo Vallecano,Granada CF,2 - 1,2,1
+355,RC Celta,Athletic Club,2 - 1,2,1
+356,Getafe CF,Atlético de Madrid,0 - 3,0,3
+357,UD Las Palmas,Real Betis,2 - 2,2,2
+358,UD Almería,FC Barcelona,0 - 2,0,2
+359,Real Sociedad,Valencia CF,1 - 0,1,0
+360,Deportivo Alavés,Getafe CF,1 - 0,1,0
+361,Athletic Club,Sevilla FC,2 - 0,2,0
+362,Atlético de Madrid,CA Osasuna,1 - 4,1,4
+363,FC Barcelona,Rayo Vallecano,3 - 0,3,0
+364,Real Betis,Real Sociedad,0 - 2,0,2
+365,Cádiz CF,UD Las Palmas,0 - 0,0,0
+366,RCD Mallorca,UD Almería,2 - 2,2,2
+367,Granada CF,RC Celta,1 - 2,1,2
+368,Valencia CF,Girona FC,1 - 3,1,3
+369,Villarreal CF,Real Madrid,4 - 4,4,4
+370,Girona FC,Granada CF,7 - 0,7,0
+371,CA Osasuna,Villarreal CF,1 - 1,1,1
+372,Real Sociedad,Atlético de Madrid,0 - 2,0,2
+373,UD Almería,Cádiz CF,6 - 1,6,1
+374,Rayo Vallecano,Athletic Club,0 - 1,0,1
+375,Real Madrid,Real Betis,0 - 0,0,0
+376,Getafe CF,RCD Mallorca,1 - 2,1,2
+377,RC Celta,Valencia CF,2 - 2,2,2
+378,UD Las Palmas,Deportivo Alavés,1 - 1,1,1
+379,Sevilla FC,FC Barcelona,1 - 2,1,2
+0,Athletic Club,Getafe CF,1 - 1,1,1
+1,Real Betis,Girona FC,1 - 1,1,1
+2,RC Celta,Deportivo Alavés,2 - 1,2,1
+3,UD Las Palmas,Sevilla FC,2 - 2,2,2
+4,CA Osasuna,CD Leganés,1 - 1,1,1
+5,Valencia CF,FC Barcelona,1 - 2,1,2
+6,Real Sociedad,Rayo Vallecano,1 - 2,1,2
+7,RCD Mallorca,Real Madrid,1 - 1,1,1
+8,Real Valladolid CF,RCD Espanyol de Barcelona,1 - 0,1,0
+9,Villarreal CF,Atlético de Madrid,2 - 2,2,2
+10,RC Celta,Valencia CF,3 - 1,3,1
+11,Sevilla FC,Villarreal CF,1 - 2,1,2
+12,CA Osasuna,RCD Mallorca,1 - 0,1,0
+13,FC Barcelona,Athletic Club,2 - 1,2,1
+14,Getafe CF,Rayo Vallecano,0 - 0,0,0
+15,RCD Espanyol de Barcelona,Real Sociedad,0 - 1,0,1
+16,Real Madrid,Real Valladolid CF,3 - 0,3,0
+17,CD Leganés,UD Las Palmas,2 - 1,2,1
+18,Deportivo Alavés,Real Betis,0 - 0,0,0
+19,Atlético de Madrid,Girona FC,3 - 0,3,0
+20,Villarreal CF,RC Celta,4 - 3,4,3
+21,RCD Mallorca,Sevilla FC,0 - 0,0,0
+22,Rayo Vallecano,FC Barcelona,1 - 2,1,2
+23,Athletic Club,Valencia CF,1 - 0,1,0
+24,Real Valladolid CF,CD Leganés,0 - 0,0,0
+25,Real Sociedad,Deportivo Alavés,1 - 2,1,2
+26,Atlético de Madrid,RCD Espanyol de Barcelona,0 - 0,0,0
+27,Girona FC,CA Osasuna,4 - 0,4,0
+28,UD Las Palmas,Real Madrid,1 - 1,1,1
+29,Real Betis,Getafe CF,2 - 1,2,1
+30,FC Barcelona,Real Valladolid CF,7 - 0,7,0
+31,Athletic Club,Atlético de Madrid,0 - 1,0,1
+32,RCD Espanyol de Barcelona,Rayo Vallecano,2 - 1,2,1
+33,Valencia CF,Villarreal CF,1 - 1,1,1
+34,CD Leganés,RCD Mallorca,0 - 1,0,1
+35,Deportivo Alavés,UD Las Palmas,2 - 0,2,0
+36,CA Osasuna,RC Celta,3 - 2,3,2
+37,Sevilla FC,Girona FC,0 - 2,0,2
+38,Getafe CF,Real Sociedad,0 - 0,0,0
+39,Real Madrid,Real Betis,2 - 0,2,0
+40,Real Betis,CD Leganés,2 - 0,2,0
+41,RCD Mallorca,Villarreal CF,1 - 2,1,2
+42,RCD Espanyol de Barcelona,Deportivo Alavés,3 - 2,3,2
+43,Sevilla FC,Getafe CF,1 - 0,1,0
+44,Real Sociedad,Real Madrid,0 - 2,0,2
+45,RC Celta,Real Valladolid CF,3 - 1,3,1
+46,Girona FC,FC Barcelona,1 - 4,1,4
+47,UD Las Palmas,Athletic Club,2 - 3,2,3
+48,Atlético de Madrid,Valencia CF,3 - 0,3,0
+49,Rayo Vallecano,CA Osasuna,3 - 1,3,1
+50,Deportivo Alavés,Sevilla FC,2 - 1,2,1
+51,Real Valladolid CF,Real Sociedad,0 - 0,0,0
+52,CA Osasuna,UD Las Palmas,2 - 1,2,1
+53,Valencia CF,Girona FC,2 - 0,2,0
+54,Real Madrid,RCD Espanyol de Barcelona,4 - 1,4,1
+55,Getafe CF,CD Leganés,1 - 1,1,1
+56,Athletic Club,RC Celta,3 - 1,3,1
+57,Villarreal CF,FC Barcelona,1 - 5,1,5
+58,Rayo Vallecano,Atlético de Madrid,1 - 1,1,1
+59,Real Betis,RCD Mallorca,1 - 2,1,2
+60,RCD Mallorca,Real Sociedad,1 - 0,1,0
+61,CD Leganés,Athletic Club,0 - 2,0,2
+62,Sevilla FC,Real Valladolid CF,2 - 1,2,1
+63,Valencia CF,CA Osasuna,0 - 0,0,0
+64,Real Madrid,Deportivo Alavés,3 - 2,3,2
+65,Girona FC,Rayo Vallecano,0 - 0,0,0
+66,FC Barcelona,Getafe CF,1 - 0,1,0
+67,RCD Espanyol de Barcelona,Villarreal CF,1 - 2,1,2
+68,UD Las Palmas,Real Betis,1 - 1,1,1
+69,RC Celta,Atlético de Madrid,0 - 1,0,1
+70,Real Valladolid CF,RCD Mallorca,1 - 2,1,2
+71,Getafe CF,Deportivo Alavés,2 - 0,2,0
+72,Rayo Vallecano,CD Leganés,1 - 1,1,1
+73,Real Sociedad,Valencia CF,3 - 0,3,0
+74,CA Osasuna,FC Barcelona,4 - 2,4,2
+75,RC Celta,Girona FC,1 - 1,1,1
+76,Athletic Club,Sevilla FC,1 - 1,1,1
+77,Real Betis,RCD Espanyol de Barcelona,1 - 0,1,0
+78,Atlético de Madrid,Real Madrid,1 - 1,1,1
+79,Villarreal CF,UD Las Palmas,3 - 1,3,1
+80,CD Leganés,Valencia CF,0 - 0,0,0
+81,RCD Espanyol de Barcelona,RCD Mallorca,2 - 1,2,1
+82,Getafe CF,CA Osasuna,1 - 1,1,1
+83,UD Las Palmas,RC Celta,0 - 1,0,1
+84,Real Valladolid CF,Rayo Vallecano,1 - 2,1,2
+85,Real Madrid,Villarreal CF,2 - 0,2,0
+86,Girona FC,Athletic Club,2 - 1,2,1
+87,Deportivo Alavés,FC Barcelona,0 - 3,0,3
+88,Sevilla FC,Real Betis,1 - 0,1,0
+89,Real Sociedad,Atlético de Madrid,1 - 1,1,1
+90,Deportivo Alavés,Real Valladolid CF,2 - 3,2,3
+91,Athletic Club,RCD Espanyol de Barcelona,4 - 1,4,1
+92,CA Osasuna,Real Betis,1 - 2,1,2
+93,Girona FC,Real Sociedad,0 - 1,0,1
+94,RC Celta,Real Madrid,1 - 2,1,2
+95,RCD Mallorca,Rayo Vallecano,1 - 0,1,0
+96,Atlético de Madrid,CD Leganés,3 - 1,3,1
+97,Villarreal CF,Getafe CF,1 - 1,1,1
+98,FC Barcelona,Sevilla FC,5 - 1,5,1
+99,Valencia CF,UD Las Palmas,2 - 3,2,3
+100,RCD Espanyol de Barcelona,Sevilla FC,0 - 2,0,2
+101,Real Valladolid CF,Villarreal CF,1 - 2,1,2
+102,Rayo Vallecano,Deportivo Alavés,1 - 0,1,0
+103,UD Las Palmas,Girona FC,1 - 0,1,0
+104,Real Madrid,FC Barcelona,0 - 4,0,4
+105,CD Leganés,RC Celta,3 - 0,3,0
+106,Getafe CF,Valencia CF,1 - 1,1,1
+107,Real Betis,Atlético de Madrid,1 - 0,1,0
+108,Real Sociedad,CA Osasuna,0 - 2,0,2
+109,RCD Mallorca,Athletic Club,0 - 0,0,0
+110,Deportivo Alavés,RCD Mallorca,1 - 0,1,0
+111,CA Osasuna,Real Valladolid CF,1 - 0,1,0
+112,Girona FC,CD Leganés,4 - 3,4,3
+113,Atlético de Madrid,UD Las Palmas,2 - 0,2,0
+114,FC Barcelona,RCD Espanyol de Barcelona,3 - 1,3,1
+115,Sevilla FC,Real Sociedad,0 - 2,0,2
+116,Athletic Club,Real Betis,1 - 1,1,1
+117,RC Celta,Getafe CF,1 - 0,1,0
+118,Villarreal CF,Rayo Vallecano,1 - 1,1,1
+119,Valencia CF,Real Madrid,1 - 2,1,2
+120,Rayo Vallecano,UD Las Palmas,1 - 3,1,3
+121,Real Madrid,CA Osasuna,4 - 0,4,0
+122,Villarreal CF,Deportivo Alavés,3 - 0,3,0
+123,CD Leganés,Sevilla FC,1 - 0,1,0
+124,Real Betis,RC Celta,2 - 2,2,2
+125,RCD Mallorca,Atlético de Madrid,0 - 1,0,1
+126,Getafe CF,Girona FC,0 - 1,0,1
+127,Real Valladolid CF,Athletic Club,1 - 1,1,1
+128,Real Sociedad,FC Barcelona,1 - 0,1,0
+129,RCD Espanyol de Barcelona,Valencia CF,1 - 1,1,1
+130,Getafe CF,Real Valladolid CF,2 - 0,2,0
+131,Valencia CF,Real Betis,4 - 2,4,2
+132,Atlético de Madrid,Deportivo Alavés,2 - 1,2,1
+133,UD Las Palmas,RCD Mallorca,2 - 3,2,3
+134,Girona FC,RCD Espanyol de Barcelona,4 - 1,4,1
+135,RC Celta,FC Barcelona,2 - 2,2,2
+136,CA Osasuna,Villarreal CF,2 - 2,2,2
+137,Sevilla FC,Rayo Vallecano,1 - 0,1,0
+138,CD Leganés,Real Madrid,0 - 3,0,3
+139,Athletic Club,Real Sociedad,1 - 0,1,0
+140,RCD Mallorca,Valencia CF,2 - 1,2,1
+141,FC Barcelona,UD Las Palmas,1 - 2,1,2
+142,Deportivo Alavés,CD Leganés,1 - 1,1,1
+143,RCD Espanyol de Barcelona,RC Celta,3 - 1,3,1
+144,Real Valladolid CF,Atlético de Madrid,0 - 5,0,5
+145,Villarreal CF,Girona FC,2 - 2,2,2
+146,Real Madrid,Getafe CF,2 - 0,2,0
+147,Rayo Vallecano,Athletic Club,1 - 2,1,2
+148,Real Sociedad,Real Betis,2 - 0,2,0
+149,Sevilla FC,CA Osasuna,1 - 1,1,1
+150,RC Celta,RCD Mallorca,2 - 0,2,0
+151,UD Las Palmas,Real Valladolid CF,2 - 1,2,1
+152,Real Betis,FC Barcelona,2 - 2,2,2
+153,Valencia CF,Rayo Vallecano,0 - 1,0,1
+154,Girona FC,Real Madrid,0 - 3,0,3
+155,CD Leganés,Real Sociedad,0 - 3,0,3
+156,Athletic Club,Villarreal CF,2 - 0,2,0
+157,CA Osasuna,Deportivo Alavés,2 - 2,2,2
+158,Atlético de Madrid,Sevilla FC,4 - 3,4,3
+159,Getafe CF,RCD Espanyol de Barcelona,1 - 0,1,0
+160,Real Valladolid CF,Valencia CF,1 - 0,1,0
+161,RCD Espanyol de Barcelona,CA Osasuna,0 - 0,0,0
+162,RCD Mallorca,Girona FC,2 - 1,2,1
+163,Sevilla FC,RC Celta,1 - 0,1,0
+164,Rayo Vallecano,Real Madrid,3 - 3,3,3
+165,Atlético de Madrid,Getafe CF,1 - 0,1,0
+166,Deportivo Alavés,Athletic Club,1 - 1,1,1
+167,Villarreal CF,Real Betis,1 - 2,1,2
+168,Real Sociedad,UD Las Palmas,0 - 0,0,0
+169,FC Barcelona,CD Leganés,0 - 1,0,1
+170,Girona FC,Real Valladolid CF,3 - 0,3,0
+171,Getafe CF,RCD Mallorca,0 - 1,0,1
+172,RC Celta,Real Sociedad,2 - 0,2,0
+173,CA Osasuna,Athletic Club,1 - 2,1,2
+174,FC Barcelona,Atlético de Madrid,1 - 2,1,2
+175,Valencia CF,Deportivo Alavés,2 - 2,2,2
+176,Real Madrid,Sevilla FC,4 - 2,4,2
+177,CD Leganés,Villarreal CF,2 - 5,2,5
+178,UD Las Palmas,RCD Espanyol de Barcelona,1 - 0,1,0
+179,Real Betis,Rayo Vallecano,1 - 1,1,1
+180,RCD Mallorca,FC Barcelona,1 - 5,1,5
+181,Athletic Club,Real Madrid,2 - 1,2,1
+182,Rayo Vallecano,RC Celta,2 - 1,2,1
+183,Deportivo Alavés,Girona FC,0 - 1,0,1
+184,Real Valladolid CF,Real Betis,1 - 0,1,0
+185,RCD Espanyol de Barcelona,CD Leganés,1 - 1,1,1
+186,Sevilla FC,Valencia CF,1 - 1,1,1
+187,UD Las Palmas,Getafe CF,1 - 2,1,2
+188,Atlético de Madrid,CA Osasuna,1 - 0,1,0
+189,Real Sociedad,Villarreal CF,1 - 0,1,0
+190,RCD Espanyol de Barcelona,Real Valladolid CF,2 - 1,2,1
+191,Girona FC,Sevilla FC,1 - 2,1,2
+192,CD Leganés,Atlético de Madrid,1 - 0,1,0
+193,Real Betis,Deportivo Alavés,1 - 3,1,3
+194,Getafe CF,FC Barcelona,1 - 1,1,1
+195,RC Celta,Athletic Club,1 - 2,1,2
+196,Real Madrid,UD Las Palmas,4 - 1,4,1
+197,CA Osasuna,Rayo Vallecano,1 - 1,1,1
+198,Valencia CF,Real Sociedad,1 - 0,1,0
+199,Villarreal CF,RCD Mallorca,4 - 0,4,0
+200,UD Las Palmas,CA Osasuna,1 - 1,1,1
+201,RCD Mallorca,Real Betis,0 - 1,0,1
+202,Atlético de Madrid,Villarreal CF,1 - 1,1,1
+203,Sevilla FC,RCD Espanyol de Barcelona,1 - 1,1,1
+204,Real Valladolid CF,Real Madrid,0 - 3,0,3
+205,Rayo Vallecano,Girona FC,2 - 1,2,1
+206,Real Sociedad,Getafe CF,0 - 3,0,3
+207,Athletic Club,CD Leganés,0 - 0,0,0
+208,FC Barcelona,Valencia CF,7 - 1,7,1
+209,Deportivo Alavés,RC Celta,1 - 1,1,1
+210,CD Leganés,Rayo Vallecano,0 - 1,0,1
+211,Getafe CF,Sevilla FC,0 - 0,0,0
+212,Villarreal CF,Real Valladolid CF,5 - 1,5,1
+213,Atlético de Madrid,RCD Mallorca,2 - 0,2,0
+214,RCD Espanyol de Barcelona,Real Madrid,1 - 0,1,0
+215,FC Barcelona,Deportivo Alavés,1 - 0,1,0
+216,Valencia CF,RC Celta,2 - 1,2,1
+217,CA Osasuna,Real Sociedad,2 - 1,2,1
+218,Real Betis,Athletic Club,2 - 2,2,2
+219,Girona FC,UD Las Palmas,2 - 1,2,1
+220,Rayo Vallecano,Real Valladolid CF,1 - 0,1,0
+221,RC Celta,Real Betis,3 - 2,3,2
+222,Athletic Club,Girona FC,3 - 0,3,0
+223,UD Las Palmas,Villarreal CF,1 - 2,1,2
+224,Real Madrid,Atlético de Madrid,1 - 1,1,1
+225,Deportivo Alavés,Getafe CF,0 - 1,0,1
+226,Valencia CF,CD Leganés,2 - 0,2,0
+227,Real Sociedad,RCD Espanyol de Barcelona,2 - 1,2,1
+228,Sevilla FC,FC Barcelona,1 - 4,1,4
+229,RCD Mallorca,CA Osasuna,1 - 1,1,1
+230,Girona FC,Getafe CF,1 - 2,1,2
+231,CD Leganés,Deportivo Alavés,3 - 3,3,3
+232,CA Osasuna,Real Madrid,1 - 1,1,1
+233,Atlético de Madrid,RC Celta,1 - 1,1,1
+234,Villarreal CF,Valencia CF,1 - 1,1,1
+235,RCD Espanyol de Barcelona,Athletic Club,1 - 1,1,1
+236,Real Valladolid CF,Sevilla FC,0 - 4,0,4
+237,RCD Mallorca,UD Las Palmas,3 - 1,3,1
+238,Real Betis,Real Sociedad,3 - 0,3,0
+239,FC Barcelona,Rayo Vallecano,1 - 0,1,0
+240,RC Celta,CA Osasuna,1 - 0,1,0
+241,Deportivo Alavés,RCD Espanyol de Barcelona,0 - 1,0,1
+242,Rayo Vallecano,Villarreal CF,0 - 1,0,1
+243,Valencia CF,Atlético de Madrid,0 - 3,0,3
+244,UD Las Palmas,FC Barcelona,0 - 2,0,2
+245,Athletic Club,Real Valladolid CF,7 - 1,7,1
+246,Real Madrid,Girona FC,2 - 0,2,0
+247,Getafe CF,Real Betis,1 - 2,1,2
+248,Real Sociedad,CD Leganés,3 - 0,3,0
+249,Sevilla FC,RCD Mallorca,1 - 1,1,1
+250,Real Valladolid CF,UD Las Palmas,1 - 1,1,1
+251,Girona FC,RC Celta,2 - 2,2,2
+252,Rayo Vallecano,Sevilla FC,1 - 1,1,1
+253,Real Betis,Real Madrid,2 - 1,2,1
+254,Atlético de Madrid,Athletic Club,1 - 0,1,0
+255,CD Leganés,Getafe CF,1 - 0,1,0
+256,FC Barcelona,Real Sociedad,4 - 0,4,0
+257,RCD Mallorca,Deportivo Alavés,1 - 1,1,1
+258,CA Osasuna,Valencia CF,3 - 3,3,3
+259,Villarreal CF,RCD Espanyol de Barcelona,1 - 0,1,0
+260,RC Celta,CD Leganés,2 - 1,2,1
+261,Deportivo Alavés,Villarreal CF,1 - 0,1,0
+262,Valencia CF,Real Valladolid CF,2 - 1,2,1
+263,Getafe CF,Atlético de Madrid,2 - 1,2,1
+264,Real Madrid,Rayo Vallecano,2 - 1,2,1
+265,Athletic Club,RCD Mallorca,1 - 1,1,1
+266,Real Betis,UD Las Palmas,1 - 0,1,0
+267,Real Sociedad,Sevilla FC,0 - 1,0,1
+268,RCD Espanyol de Barcelona,Girona FC,1 - 1,1,1
+269,FC Barcelona,CA Osasuna,3 - 0,3,0
+270,UD Las Palmas,Deportivo Alavés,2 - 2,2,2
+271,Real Valladolid CF,RC Celta,0 - 1,0,1
+272,RCD Mallorca,RCD Espanyol de Barcelona,2 - 1,2,1
+273,Villarreal CF,Real Madrid,1 - 2,1,2
+274,Girona FC,Valencia CF,1 - 1,1,1
+275,CD Leganés,Real Betis,2 - 3,2,3
+276,Sevilla FC,Athletic Club,0 - 1,0,1
+277,Rayo Vallecano,Real Sociedad,2 - 2,2,2
+278,CA Osasuna,Getafe CF,1 - 2,1,2
+279,Atlético de Madrid,FC Barcelona,2 - 4,2,4
+280,Real Sociedad,Real Valladolid CF,2 - 1,2,1
+281,RCD Espanyol de Barcelona,Atlético de Madrid,1 - 1,1,1
+282,Deportivo Alavés,Rayo Vallecano,0 - 2,0,2
+283,Real Madrid,CD Leganés,3 - 2,3,2
+284,Getafe CF,Villarreal CF,1 - 2,1,2
+285,FC Barcelona,Girona FC,4 - 1,4,1
+286,Athletic Club,CA Osasuna,0 - 0,0,0
+287,Valencia CF,RCD Mallorca,1 - 0,1,0
+288,Real Betis,Sevilla FC,2 - 1,2,1
+289,RC Celta,UD Las Palmas,1 - 1,1,1
+290,Rayo Vallecano,RCD Espanyol de Barcelona,0 - 4,0,4
+291,Girona FC,Deportivo Alavés,0 - 1,0,1
+292,Real Madrid,Valencia CF,1 - 2,1,2
+293,RCD Mallorca,RC Celta,1 - 2,1,2
+294,FC Barcelona,Real Betis,1 - 1,1,1
+295,UD Las Palmas,Real Sociedad,1 - 3,1,3
+296,Sevilla FC,Atlético de Madrid,1 - 2,1,2
+297,Real Valladolid CF,Getafe CF,0 - 4,0,4
+298,Villarreal CF,Athletic Club,0 - 0,0,0
+299,CD Leganés,CA Osasuna,1 - 1,1,1
+300,Valencia CF,Sevilla FC,1 - 0,1,0
+301,Real Sociedad,RCD Mallorca,0 - 2,0,2
+302,Getafe CF,UD Las Palmas,1 - 3,1,3
+303,RC Celta,RCD Espanyol de Barcelona,0 - 2,0,2
+304,CD Leganés,FC Barcelona,0 - 1,0,1
+305,CA Osasuna,Girona FC,2 - 1,2,1
+306,Deportivo Alavés,Real Madrid,0 - 1,0,1
+307,Real Betis,Villarreal CF,1 - 2,1,2
+308,Athletic Club,Rayo Vallecano,3 - 1,3,1
+309,Atlético de Madrid,Real Valladolid CF,4 - 2,4,2
+310,RCD Espanyol de Barcelona,Getafe CF,1 - 0,1,0
+311,Rayo Vallecano,Valencia CF,1 - 1,1,1
+312,FC Barcelona,RC Celta,4 - 3,4,3
+313,RCD Mallorca,CD Leganés,0 - 0,0,0
+314,UD Las Palmas,Atlético de Madrid,1 - 0,1,0
+315,Real Valladolid CF,CA Osasuna,2 - 3,2,3
+316,Villarreal CF,Real Sociedad,2 - 2,2,2
+317,Sevilla FC,Deportivo Alavés,1 - 1,1,1
+318,Real Madrid,Athletic Club,1 - 0,1,0
+319,Girona FC,Real Betis,1 - 3,1,3
+320,Valencia CF,RCD Espanyol de Barcelona,1 - 1,1,1
+321,FC Barcelona,RCD Mallorca,1 - 0,1,0
+322,Athletic Club,UD Las Palmas,1 - 0,1,0
+323,RC Celta,Villarreal CF,3 - 0,3,0
+324,Getafe CF,Real Madrid,0 - 1,0,1
+325,Deportivo Alavés,Real Sociedad,1 - 0,1,0
+326,CA Osasuna,Sevilla FC,1 - 0,1,0
+327,CD Leganés,Girona FC,1 - 1,1,1
+328,Atlético de Madrid,Rayo Vallecano,3 - 0,3,0
+329,Real Betis,Real Valladolid CF,5 - 1,5,1
+330,Rayo Vallecano,Getafe CF,1 - 0,1,0
+331,Deportivo Alavés,Atlético de Madrid,0 - 0,0,0
+332,Villarreal CF,CA Osasuna,4 - 2,4,2
+333,UD Las Palmas,Valencia CF,2 - 3,2,3
+334,Real Valladolid CF,FC Barcelona,1 - 2,1,2
+335,Real Madrid,RC Celta,3 - 2,3,2
+336,Sevilla FC,CD Leganés,2 - 2,2,2
+337,RCD Espanyol de Barcelona,Real Betis,1 - 2,1,2
+338,Real Sociedad,Athletic Club,0 - 0,0,0
+339,Girona FC,RCD Mallorca,1 - 0,1,0
+340,UD Las Palmas,Rayo Vallecano,0 - 1,0,1
+341,Valencia CF,Getafe CF,3 - 0,3,0
+342,RC Celta,Sevilla FC,3 - 2,3,2
+343,Girona FC,Villarreal CF,0 - 1,0,1
+344,RCD Mallorca,Real Valladolid CF,2 - 1,2,1
+345,Atlético de Madrid,Real Sociedad,4 - 0,4,0
+346,CD Leganés,RCD Espanyol de Barcelona,3 - 2,3,2
+347,FC Barcelona,Real Madrid,4 - 3,4,3
+348,Athletic Club,Deportivo Alavés,1 - 0,1,0
+349,Real Betis,CA Osasuna,1 - 1,1,1
+350,Real Valladolid CF,Girona FC,0 - 1,0,1
+351,Real Sociedad,RC Celta,0 - 1,0,1
+352,Sevilla FC,UD Las Palmas,1 - 0,1,0
+353,Deportivo Alavés,Valencia CF,1 - 0,1,0
+354,Villarreal CF,CD Leganés,3 - 0,3,0
+355,Real Madrid,RCD Mallorca,2 - 1,2,1
+356,CA Osasuna,Atlético de Madrid,2 - 0,2,0
+357,Rayo Vallecano,Real Betis,2 - 2,2,2
+358,RCD Espanyol de Barcelona,FC Barcelona,0 - 2,0,2
+359,Getafe CF,Athletic Club,0 - 2,0,2
+360,Atlético de Madrid,Real Betis,4 - 1,4,1
+361,FC Barcelona,Villarreal CF,2 - 3,2,3
+362,RC Celta,Rayo Vallecano,1 - 2,1,2
+363,Valencia CF,Athletic Club,0 - 1,0,1
+364,RCD Mallorca,Getafe CF,1 - 2,1,2
+365,Real Sociedad,Girona FC,3 - 2,3,2
+366,Sevilla FC,Real Madrid,0 - 2,0,2
+367,Real Valladolid CF,Deportivo Alavés,0 - 1,0,1
+368,UD Las Palmas,CD Leganés,0 - 1,0,1
+369,CA Osasuna,RCD Espanyol de Barcelona,2 - 0,2,0
+370,Real Betis,Valencia CF,1 - 1,1,1
+371,Real Madrid,Real Sociedad,2 - 0,2,0
+372,CD Leganés,Real Valladolid CF,3 - 0,3,0
+373,RCD Espanyol de Barcelona,UD Las Palmas,2 - 0,2,0
+374,Deportivo Alavés,CA Osasuna,1 - 1,1,1
+375,Getafe CF,RC Celta,1 - 2,1,2
+376,Rayo Vallecano,RCD Mallorca,0 - 0,0,0
+377,Girona FC,Atlético de Madrid,0 - 4,0,4
+378,Villarreal CF,Sevilla FC,4 - 2,4,2
+379,Athletic Club,FC Barcelona,0 - 3,0,3
+0,Girona FC,Rayo Vallecano,1 - 3,1,3
+1,Villarreal CF,Real Oviedo,2 - 0,2,0
+2,RCD Mallorca,FC Barcelona,0 - 3,0,3
+3,Deportivo Alavés,Levante UD,2 - 1,2,1
+4,Valencia CF,Real Sociedad,1 - 1,1,1
+5,RC Celta,Getafe CF,0 - 2,0,2
+6,Athletic Club,Sevilla FC,3 - 2,3,2
+7,RCD Espanyol de Barcelona,Atlético de Madrid,2 - 1,2,1
+8,Elche CF,Real Betis,1 - 1,1,1
+9,Real Madrid,CA Osasuna,1 - 0,1,0
+10,Real Betis,Deportivo Alavés,1 - 0,1,0
+11,RCD Mallorca,RC Celta,1 - 1,1,1
+12,Atlético de Madrid,Elche CF,1 - 1,1,1
+13,Levante UD,FC Barcelona,2 - 3,2,3
+14,CA Osasuna,Valencia CF,1 - 0,1,0
+15,Real Sociedad,RCD Espanyol de Barcelona,2 - 2,2,2
+16,Villarreal CF,Girona FC,5 - 0,5,0
+17,Real Oviedo,Real Madrid,0 - 3,0,3
+18,Athletic Club,Rayo Vallecano,1 - 0,1,0
+19,Sevilla FC,Getafe CF,1 - 2,1,2
+20,Elche CF,Levante UD,2 - 0,2,0
+21,Valencia CF,Getafe CF,3 - 0,3,0
+22,Deportivo Alavés,Atlético de Madrid,1 - 1,1,1
+23,Real Oviedo,Real Sociedad,1 - 0,1,0
+24,Girona FC,Sevilla FC,0 - 2,0,2
+25,Real Madrid,RCD Mallorca,2 - 1,2,1
+26,RC Celta,Villarreal CF,1 - 1,1,1
+27,Real Betis,Athletic Club,1 - 2,1,2
+28,RCD Espanyol de Barcelona,CA Osasuna,1 - 0,1,0
+29,Rayo Vallecano,FC Barcelona,1 - 1,1,1
+30,Sevilla FC,Elche CF,2 - 2,2,2
+31,Getafe CF,Real Oviedo,2 - 0,2,0
+32,Real Sociedad,Real Madrid,1 - 2,1,2
+33,Athletic Club,Deportivo Alavés,0 - 1,0,1
+34,Atlético de Madrid,Villarreal CF,2 - 0,2,0
+35,RC Celta,Girona FC,1 - 1,1,1
+36,Levante UD,Real Betis,2 - 2,2,2
+37,CA Osasuna,Rayo Vallecano,2 - 0,2,0
+38,FC Barcelona,Valencia CF,6 - 0,6,0
+39,RCD Espanyol de Barcelona,RCD Mallorca,3 - 2,3,2
+40,Real Betis,Real Sociedad,3 - 1,3,1
+41,Girona FC,Levante UD,0 - 4,0,4
+42,Real Madrid,RCD Espanyol de Barcelona,2 - 0,2,0
+43,Deportivo Alavés,Sevilla FC,1 - 2,1,2
+44,Villarreal CF,CA Osasuna,2 - 1,2,1
+45,Valencia CF,Athletic Club,2 - 0,2,0
+46,Rayo Vallecano,RC Celta,1 - 1,1,1
+47,RCD Mallorca,Atlético de Madrid,1 - 1,1,1
+48,Elche CF,Real Oviedo,1 - 0,1,0
+49,FC Barcelona,Getafe CF,3 - 0,3,0
+50,RC Celta,Real Betis,1 - 1,1,1
+51,Athletic Club,Girona FC,1 - 1,1,1
+52,RCD Espanyol de Barcelona,Valencia CF,2 - 2,2,2
+53,Levante UD,Real Madrid,1 - 4,1,4
+54,Sevilla FC,Villarreal CF,1 - 2,1,2
+55,Getafe CF,Deportivo Alavés,1 - 1,1,1
+56,Atlético de Madrid,Rayo Vallecano,3 - 2,3,2
+57,Real Sociedad,RCD Mallorca,1 - 0,1,0
+58,CA Osasuna,Elche CF,1 - 1,1,1
+59,Real Oviedo,FC Barcelona,1 - 3,1,3
+60,Girona FC,RCD Espanyol de Barcelona,0 - 0,0,0
+61,Getafe CF,Levante UD,1 - 1,1,1
+62,Atlético de Madrid,Real Madrid,5 - 2,5,2
+63,RCD Mallorca,Deportivo Alavés,1 - 0,1,0
+64,Villarreal CF,Athletic Club,1 - 0,1,0
+65,Rayo Vallecano,Sevilla FC,0 - 1,0,1
+66,Elche CF,RC Celta,2 - 1,2,1
+67,FC Barcelona,Real Sociedad,2 - 1,2,1
+68,Real Betis,CA Osasuna,2 - 0,2,0
+69,Valencia CF,Real Oviedo,1 - 2,1,2
