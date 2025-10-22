@@ -69,26 +69,26 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 62,7,28/09/2025 16:30,Estadi Olímpic Lluís Companys,FC Barcelona,Real Sociedad,2 - 1
 63,7,28/09/2025 19:00,Estadio Olímpico de la Cartuja,Real Betis,CA Osasuna,2 - 0
 70,7,30/09/2025 18:00,Camp de Mestalla,Valencia CF,Real Oviedo,1 - 2
-78,8,03/10/2025 19:00,Estadio El Sadar,CA Osasuna,Getafe CF,
-79,8,04/10/2025 12:00,Estadio Carlos Tartiere,Real Oviedo,Levante UD,
-73,8,04/10/2025 14:15,Estadio Municipal de Montilivi,Girona FC,Valencia CF,
-72,8,04/10/2025 16:30,Estadio San Mamés,Athletic Club,RCD Mallorca,
-74,8,04/10/2025 19:00,Estadio Santiago Bernabéu,Real Madrid,Villarreal CF,
-71,8,05/10/2025 12:00,Mendizorroza,Deportivo Alavés,Elche CF,
-76,8,05/10/2025 14:15,Ramón Sánchez-Pizjuán,Sevilla FC,FC Barcelona,
-77,8,05/10/2025 16:30,RCDE Stadium,RCD Espanyol de Barcelona,Real Betis,
-80,8,05/10/2025 16:30,Anoeta,Real Sociedad,Rayo Vallecano,
-75,8,05/10/2025 19:00,Estadio ABANCA Balaídos,Celta,Atlético de Madrid,
-89,9,17/10/2025 19:00,Estadio Carlos Tartiere,Real Oviedo,RCD Espanyol de Barcelona,
-90,9,18/10/2025 12:00,Ramón Sánchez-Pizjuán,Sevilla FC,RCD Mallorca,
-83,9,18/10/2025 14:15,TBA,FC Barcelona,Girona FC,
-88,9,18/10/2025 16:30,Estadio de la Cerámica,Villarreal CF,Real Betis,
-82,9,18/10/2025 19:00,Riyadh Air Metropolitano,Atlético de Madrid,CA Osasuna,
-87,9,19/10/2025 12:00,Estadio Martínez Valero,Elche CF,Athletic Club,
-84,9,19/10/2025 14:15,Estadio ABANCA Balaídos,Celta,Real Sociedad,
-86,9,19/10/2025 16:30,Estadio Ciutat de València,Levante UD,Rayo Vallecano,
-85,9,19/10/2025 19:00,Coliseum,Getafe CF,Real Madrid,
-81,9,20/10/2025 19:00,Mendizorroza,Deportivo Alavés,Valencia CF,
+78,8,03/10/2025 19:00,Estadio El Sadar,CA Osasuna,Getafe CF,2 - 1
+79,8,04/10/2025 12:00,Estadio Carlos Tartiere,Real Oviedo,Levante UD,0 - 2
+73,8,04/10/2025 14:15,Estadio Municipal de Montilivi,Girona FC,Valencia CF,2 - 1
+72,8,04/10/2025 16:30,Estadio San Mamés,Athletic Club,RCD Mallorca,2 - 1
+74,8,04/10/2025 19:00,Estadio Santiago Bernabéu,Real Madrid,Villarreal CF,3 - 1
+71,8,05/10/2025 12:00,Mendizorroza,Deportivo Alavés,Elche CF,3 - 1
+76,8,05/10/2025 14:15,Ramón Sánchez-Pizjuán,Sevilla FC,FC Barcelona,4 - 1
+77,8,05/10/2025 16:30,RCDE Stadium,RCD Espanyol de Barcelona,Real Betis,1 - 2
+80,8,05/10/2025 16:30,Anoeta,Real Sociedad,Rayo Vallecano,0 - 1
+75,8,05/10/2025 19:00,Estadio ABANCA Balaídos,Celta,Atlético de Madrid,1 - 1
+89,9,17/10/2025 19:00,Estadio Carlos Tartiere,Real Oviedo,RCD Espanyol de Barcelona,0 - 2
+90,9,18/10/2025 12:00,Ramón Sánchez-Pizjuán,Sevilla FC,RCD Mallorca,1 - 3
+83,9,18/10/2025 14:15,Estadi Olímpic Lluís Companys,FC Barcelona,Girona FC,2 - 1
+88,9,18/10/2025 16:30,Estadio de la Cerámica,Villarreal CF,Real Betis,2 - 2
+82,9,18/10/2025 19:00,Riyadh Air Metropolitano,Atlético de Madrid,CA Osasuna,1 - 0
+87,9,19/10/2025 12:00,Estadio Martínez Valero,Elche CF,Athletic Club,0 - 0
+84,9,19/10/2025 14:15,Estadio ABANCA Balaídos,Celta,Real Sociedad,1 - 1
+86,9,19/10/2025 16:30,Estadio Ciutat de València,Levante UD,Rayo Vallecano,0 - 3
+85,9,19/10/2025 19:00,Coliseum,Getafe CF,Real Madrid,0 - 1
+81,9,20/10/2025 19:00,Mendizorroza,Deportivo Alavés,Valencia CF,0 - 0
 93,10,24/10/2025 19:00,Anoeta,Real Sociedad,Sevilla FC,
 92,10,25/10/2025 12:00,Estadio Municipal de Montilivi,Girona FC,Real Oviedo,
 99,10,25/10/2025 14:15,RCDE Stadium,RCD Espanyol de Barcelona,Elche CF,
@@ -99,26 +99,26 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 98,10,26/10/2025 17:30,Estadio El Sadar,CA Osasuna,Celta,
 95,10,26/10/2025 20:00,Estadio de Vallecas,Rayo Vallecano,Deportivo Alavés,
 96,10,27/10/2025 20:00,Estadio Olímpico de la Cartuja,Real Betis,Atlético de Madrid,
-101,11,02/11/2025 20:00,Mendizorroza,Deportivo Alavés,RCD Espanyol de Barcelona,
-102,11,02/11/2025 20:00,Riyadh Air Metropolitano,Atlético de Madrid,Sevilla FC,
-103,11,02/11/2025 20:00,Spotify Camp Nou,FC Barcelona,Elche CF,
+105,11,31/10/2025 20:00,Coliseum,Getafe CF,Girona FC,
+110,11,01/11/2025 13:00,Estadio de la Cerámica,Villarreal CF,Rayo Vallecano,
+102,11,01/11/2025 15:15,Riyadh Air Metropolitano,Atlético de Madrid,Sevilla FC,
+107,11,01/11/2025 17:30,Anoeta,Real Sociedad,Athletic Club,
+106,11,01/11/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,Valencia CF,
+108,11,02/11/2025 13:00,Estadio Ciutat de València,Levante UD,Celta,
+101,11,02/11/2025 15:15,Mendizorroza,Deportivo Alavés,RCD Espanyol de Barcelona,
+103,11,02/11/2025 17:30,TBA,FC Barcelona,Elche CF,
 104,11,02/11/2025 20:00,Estadio Olímpico de la Cartuja,Real Betis,RCD Mallorca,
-105,11,02/11/2025 20:00,Coliseum,Getafe CF,Girona FC,
-106,11,02/11/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,Valencia CF,
-107,11,02/11/2025 20:00,Anoeta,Real Sociedad,Athletic Club,
-108,11,02/11/2025 20:00,Estadio Ciutat de València,Levante UD,Celta,
-109,11,02/11/2025 20:00,Estadio Carlos Tartiere,Real Oviedo,CA Osasuna,
-110,11,02/11/2025 20:00,Estadio de la Cerámica,Villarreal CF,Rayo Vallecano,
-111,12,09/11/2025 20:00,Estadio San Mamés,Athletic Club,Real Oviedo,
-112,12,09/11/2025 20:00,Riyadh Air Metropolitano,Atlético de Madrid,Levante UD,
-113,12,09/11/2025 20:00,Estadio Martínez Valero,Elche CF,Real Sociedad,
-114,12,09/11/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Villarreal CF,
-115,12,09/11/2025 20:00,Estadio de Vallecas,Rayo Vallecano,Real Madrid,
+109,11,03/11/2025 20:00,Estadio Carlos Tartiere,Real Oviedo,CA Osasuna,
+113,12,08/11/2025 13:00,Estadio Martínez Valero,Elche CF,Real Sociedad,
+120,12,08/11/2025 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,
+112,12,08/11/2025 17:30,Riyadh Air Metropolitano,Atlético de Madrid,Levante UD,
+114,12,08/11/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Villarreal CF,
+111,12,09/11/2025 13:00,Estadio San Mamés,Athletic Club,Real Oviedo,
+115,12,09/11/2025 15:15,Estadio de Vallecas,Rayo Vallecano,Real Madrid,
+118,12,09/11/2025 17:30,Camp de Mestalla,Valencia CF,Real Betis,
+119,12,09/11/2025 17:30,Estadi Mallorca Son Moix,RCD Mallorca,Getafe CF,
 116,12,09/11/2025 20:00,Estadio Municipal de Montilivi,Girona FC,Deportivo Alavés,
 117,12,09/11/2025 20:00,Estadio ABANCA Balaídos,Celta,FC Barcelona,
-118,12,09/11/2025 20:00,Camp de Mestalla,Valencia CF,Real Betis,
-119,12,09/11/2025 20:00,Estadi Mallorca Son Moix,RCD Mallorca,Getafe CF,
-120,12,09/11/2025 20:00,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,
 121,13,23/11/2025 20:00,Mendizorroza,Deportivo Alavés,Celta,
 122,13,23/11/2025 20:00,Estadio Olímpico de la Cartuja,Real Betis,Girona FC,
 123,13,23/11/2025 20:00,Estadio Martínez Valero,Elche CF,Real Madrid,
