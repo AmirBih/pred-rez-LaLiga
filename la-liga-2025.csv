@@ -109,16 +109,16 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 103,11,02/11/2025 17:30,Estadi Olímpic Lluís Companys,FC Barcelona,Elche CF,3 - 1
 104,11,02/11/2025 20:00,Estadio Olímpico de la Cartuja,Real Betis,RCD Mallorca,3 - 0
 109,11,03/11/2025 20:00,Estadio Carlos Tartiere,Real Oviedo,CA Osasuna,0 - 0
-113,12,08/11/2025 13:00,Estadio Martínez Valero,Elche CF,Real Sociedad,
-120,12,08/11/2025 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,
-112,12,08/11/2025 17:30,Riyadh Air Metropolitano,Atlético de Madrid,Levante UD,
-114,12,08/11/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Villarreal CF,
-111,12,09/11/2025 13:00,Estadio San Mamés,Athletic Club,Real Oviedo,
-115,12,09/11/2025 15:15,Estadio de Vallecas,Rayo Vallecano,Real Madrid,
-118,12,09/11/2025 17:30,Camp de Mestalla,Valencia CF,Real Betis,
-119,12,09/11/2025 17:30,Estadi Mallorca Son Moix,RCD Mallorca,Getafe CF,
-116,12,09/11/2025 20:00,Estadio Municipal de Montilivi,Girona FC,Deportivo Alavés,
-117,12,09/11/2025 20:00,Estadio ABANCA Balaídos,Celta,FC Barcelona,
+113,12,07/11/2025 20:00,Estadio Martínez Valero,Elche CF,Real Sociedad,1 - 1
+116,12,08/11/2025 13:00,Estadio Municipal de Montilivi,Girona FC,Deportivo Alavés,1 - 0
+120,12,08/11/2025 15:15,Ramón Sánchez-Pizjuán,Sevilla FC,CA Osasuna,1 - 0
+112,12,08/11/2025 17:30,Riyadh Air Metropolitano,Atlético de Madrid,Levante UD,3 - 1
+114,12,08/11/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Villarreal CF,0 - 2
+111,12,09/11/2025 13:00,Estadio San Mamés,Athletic Club,Real Oviedo,1 - 0
+115,12,09/11/2025 15:15,Estadio de Vallecas,Rayo Vallecano,Real Madrid,0 - 0
+118,12,09/11/2025 17:30,Camp de Mestalla,Valencia CF,Real Betis,1 - 0
+119,12,09/11/2025 17:30,Estadi Mallorca Son Moix,RCD Mallorca,Getafe CF,1 - 1
+117,12,09/11/2025 20:00,Estadio ABANCA Balaídos,Celta,FC Barcelona,2 - 4
 129,13,21/11/2025 20:00,Camp de Mestalla,Valencia CF,Levante UD,
 121,13,22/11/2025 13:00,Mendizorroza,Deportivo Alavés,Celta,
 127,13,22/11/2025 15:15,TBA,FC Barcelona,Athletic Club,
@@ -139,16 +139,16 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 132,14,30/11/2025 17:30,Estadio ABANCA Balaídos,Celta,RCD Espanyol de Barcelona,
 133,14,30/11/2025 20:00,Estadio Municipal de Montilivi,Girona FC,Real Madrid,
 135,14,01/12/2025 20:00,Estadio de Vallecas,Rayo Vallecano,Valencia CF,
-141,15,07/12/2025 20:00,Mendizorroza,Deportivo Alavés,Real Sociedad,
-142,15,07/12/2025 20:00,Estadio San Mamés,Athletic Club,Atlético de Madrid,
-143,15,07/12/2025 20:00,Estadio Martínez Valero,Elche CF,Girona FC,
-144,15,07/12/2025 20:00,RCDE Stadium,RCD Espanyol de Barcelona,Rayo Vallecano,
-145,15,07/12/2025 20:00,Estadio Olímpico de la Cartuja,Real Betis,FC Barcelona,
+149,15,05/12/2025 20:00,Estadio Carlos Tartiere,Real Oviedo,RCD Mallorca,
+147,15,06/12/2025 13:00,Estadio de la Cerámica,Villarreal CF,Getafe CF,
+141,15,06/12/2025 15:15,Mendizorroza,Deportivo Alavés,Real Sociedad,
+145,15,06/12/2025 17:30,Estadio Olímpico de la Cartuja,Real Betis,FC Barcelona,
+142,15,06/12/2025 20:00,Estadio San Mamés,Athletic Club,Atlético de Madrid,
+143,15,07/12/2025 13:00,Estadio Martínez Valero,Elche CF,Girona FC,
+150,15,07/12/2025 15:15,Camp de Mestalla,Valencia CF,Sevilla FC,
+144,15,07/12/2025 17:30,RCDE Stadium,RCD Espanyol de Barcelona,Rayo Vallecano,
 146,15,07/12/2025 20:00,Estadio Santiago Bernabéu,Real Madrid,Celta,
-147,15,07/12/2025 20:00,Estadio de la Cerámica,Villarreal CF,Getafe CF,
-148,15,07/12/2025 20:00,Estadio El Sadar,CA Osasuna,Levante UD,
-149,15,07/12/2025 20:00,Estadio Carlos Tartiere,Real Oviedo,RCD Mallorca,
-150,15,07/12/2025 20:00,Camp de Mestalla,Valencia CF,Sevilla FC,
+148,15,08/12/2025 20:00,Estadio El Sadar,CA Osasuna,Levante UD,
 151,16,14/12/2025 20:00,Mendizorroza,Deportivo Alavés,Real Madrid,
 152,16,14/12/2025 20:00,Riyadh Air Metropolitano,Atlético de Madrid,Valencia CF,
 153,16,14/12/2025 20:00,TBA,FC Barcelona,CA Osasuna,
