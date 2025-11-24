@@ -20,13 +20,34 @@ with open("scaler.pkl","rb") as file:
 
     
 #streamlit aplikacija 
-st.title("Floated - Predviđanje Pobjednika Meča")
+st.title("Predviđanje Pobjednika Meča")
 st.title("LaLiga")
 
-#polja za unošenje - korisnički unos
-domacin = st.selectbox("Domacin", onehot_encoder_domacin.categories_[0])
-gost = st.selectbox("Gost", onehot_encoder_gost.categories_[0])
+#iskljucivanje klubova sa nedovoljnim podacima
+iskljuciti = ["Elche CF","Levante UD","Real Oviedo"]
 
+def opcija(opc):
+    if opc in iskljuciti:
+        return f"{opc} - Nema Podataka"
+    return opc
+
+#polja za unošenje - korisnički unos
+domacin = st.selectbox("Domacin", onehot_encoder_domacin.categories_[0] ,format_func=opcija)
+gost = st.selectbox("Gost", onehot_encoder_gost.categories_[0] ,format_func=opcija)
+
+#Domacin i Gost da ne budu iste ekipe:
+if domacin == gost:
+    st.warning("Domacin i gost moraju biti različiti.")
+    st.stop()
+
+#Pojašnjenje i onemogućavanje iskljucenih timova
+if domacin in iskljuciti:
+    st.warning("Odabrani Domacin Onemogućen.")
+    st.stop()
+
+if gost in iskljuciti:
+    st.warning("Odabrani Gost Onemogućen.")
+    st.stop()
 
 #pripremanje podataka za unos
 unos_data = pd.DataFrame({
@@ -54,14 +75,14 @@ unos_data_skaliran = scaler.transform(unos_data)
 predvidjanje = model.predict(unos_data_skaliran)
 predvidjanje_pobjednika = predvidjanje[0][0]
 
-st.write(f'Rezultat Predviđanja: {predvidjanje_pobjednika:.2f}')
-
-sentimentalnost = "Pobjednik Domacin" if predvidjanje[0][0] >0.55 else "Pobjednik Gost" if predvidjanje[0][0] < -0.55 else "Pobjednik Neizvjestan"
+#Info o Pobjedniku/Prognozi Meča
+sentimentalnost = (f"Pobjednik **{domacin}**") if predvidjanje[0][0] >0.55 else (f"Pobjednik **{gost}**") if predvidjanje[0][0] < -0.55 else "Pobjednik Neizvjestan"
 st.write(sentimentalnost)
 
+#Koeficijent Predvidjanja
+st.info(f'Rezultat Predviđanja: {predvidjanje_pobjednika:.2f}')
 
 #Bila su 2 Problema: 1-Previdio sam pisanje koda i izostavio "_" posle "...categories"
                 #    2-Nisam Dobro Upisao Imena Dvije Osobine iz DataSeta-, bolje receno, treniranog modela, na što je ukazivano displejom 
-                #    3-Osobinu "Estimated Salary" sam ubacio medju predvidjacke... a to je osobina koja se predvidja - izbacio sam je posle.
 
 #Ucitavanje ove .py radne knjigu u aplikaciju streamlit lokalno, u terminal=> "streamlit run B2-app.py"
